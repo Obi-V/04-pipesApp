@@ -58,5 +58,12 @@ La aplicación utiliza Angular Material para estilizar y proporcionar componente
 
 ¡Explora la aplicación y disfruta de la lista de héroes con el estilo y la funcionalidad proporcionados por Angular Material!
 
-### Texto creado con la ayuda chatGTP
+## Curso
+Todas estas aplicaciones son sacadas del curso de Fernando herrera [Angular: De cero a experto](https://www.udemy.com/course/angular-fernando-herrera/), recomiendo comprarlo ya que en el curso se explica todo muchísimo mejor y más detalladamente, además el curso se actualiza cada poco tiempo.  
+
+Muy buen curso, lo recomiendo siempre que tengas tiempo.
+
+
+### Texto creado con la ayuda de chatGTP
+
 
