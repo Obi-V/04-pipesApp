@@ -42,8 +42,8 @@ La documentación de PrimeNG es una excelente fuente de referencia y te brinda e
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/Obi-V/02-appPaises.git`
-2. Navega hasta el directorio del proyecto: `cd 02-appPaises.git`(Tu ruta)
+1. Clona el repositorio: `git clone https://github.com/Obi-V/04-pipesApp.git`
+2. Navega hasta el directorio del proyecto: `cd 04-pipesApp.git`(Tu ruta)
 3. Instala las dependencias: `npm install`
 4. Inicia la aplicación: `ng serve` o `ng serve -o`(Se abre automáticamente)
 5. Abre tu navegador y visita: `http://localhost:4200`
