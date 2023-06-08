@@ -52,8 +52,11 @@ La documentación de PrimeNG es una excelente fuente de referencia y te brinda e
 
 Esta serie de aplicaciones son para experimentar el funcionamiento de Angular, pero recomiendo complementar con más información y videos que podreis encontrar gratis en Youtube.
 
-Una vez que la aplicación esté en funcionamiento, puedes explorar las diferentes secciones y temas para aprender sobre Angular. Cada tema proporciona explicaciones, fragmentos de código y ejercicios para ayudarte a comprender mejor los conceptos de Angular. ¡Diviértete aprendiendo!
+Una vez que la aplicación esté en funcionamiento, podrás ver la lista de héroes en la página principal. Cada héroe mostrará su nombre y una breve descripción. Si haces clic en el nombre de un héroe, podrás ver más detalles sobre él, como su poder y habilidades.
 
+La aplicación utiliza Angular Material para estilizar y proporcionar componentes de interfaz de usuario, lo que mejora la apariencia y la experiencia del usuario. Los componentes de Angular Material, como listas, tarjetas y botones, se utilizan para crear una interfaz atractiva y fácil de usar.
+
+¡Explora la aplicación y disfruta de la lista de héroes con el estilo y la funcionalidad proporcionados por Angular Material!
 
 ### Texto creado con la ayuda chatGTP
 
